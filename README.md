@@ -1,5 +1,4 @@
 # FileStatGrabber
-Calculates statistic for each line of a text file: longest word(symbols between 2 spaces), shortest word, line length, average word length. Saves statistics to DB via jdbc.
 
 При реализации задания использовались:
 JDK v 1.8.0_91
