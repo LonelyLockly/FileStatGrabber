@@ -1,0 +1,1 @@
+java -jar dist/FileStatGrabber.jar files/
